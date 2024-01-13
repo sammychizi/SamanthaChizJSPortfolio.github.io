@@ -1,0 +1,23 @@
+img{
+    width: 288px;
+    height:192px;
+}
+a{
+    text-decoration:none;
+    margin: 5px;
+    color: yellow;
+}
+#nav-bar{
+    display: flex;
+    justify-content: space-between;
+}
+#main-pic{
+
+}
+#web-developer{
+    padding-top:20px;
+}
+.intro{
+    font-family: 'Ballet', cursive;
+    
+}
